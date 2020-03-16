@@ -2,7 +2,7 @@ package com.baeldung.algorithms.bubblesort;
 
 import java.util.stream.IntStream;
 
-public class BubbleSort {
+public class BubbleSort { 
 
     void bubbleSort(Integer[] arr) {
         int n = arr.length;
